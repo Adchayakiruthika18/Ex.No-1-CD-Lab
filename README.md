@@ -3,7 +3,7 @@
 # IMPLEMENTATION OF SYMBOL TABLE
 
 ## Register Number :212223230005
-## Date :26.09.2024
+## Date :24.09.2024
 
 ## AIM:
 

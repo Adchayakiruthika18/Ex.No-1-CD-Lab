@@ -82,8 +82,8 @@ return 0;
 ```
 
 ## OUTPUT:
+[<img width="405" alt="cd-01" src="https://github.com/user-attachments/assets/cfcedeb5-d61c-45bf-9b51-5299cd27f5c5">]
 
-<img width="332" alt="cd-01" src="https://github.com/user-attachments/assets/5bbce5ea-0762-45b6-8318-6d81f1dba28b">
 
 
 ## RESULT:
